@@ -767,6 +767,9 @@ body.light-mode .video-bg:before {
   align-items: center;
   flex-wrap: wrap;
   width: calc(100% + 20px);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
 }
 
 .app-card {
