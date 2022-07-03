@@ -354,6 +354,7 @@ body.light-mode .video-bg:before {
   align-items: center;
   flex-wrap: wrap;
   width: calc(100% + 20px);
+    padding-bottom: 20px;
 }
 
 .app-card {
