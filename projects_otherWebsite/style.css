@@ -763,10 +763,10 @@ body.light-mode .video-bg:before {
 }
 
 .apps-card {
-  display: flex;
+  display: flex; 
   align-items: center;
-  flex-wrap: wrap;
-  width: calc(100% + 20px);
+  flex-wrap: wrap; 
+  width: calc(100% + 20px);    
     padding-top: 10px;
     padding-bottom: 10px;
     
