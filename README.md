@@ -10,6 +10,9 @@ https://ananya-agarwal.github.io/Personal_Porfolio/
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+## Description: 
+This project was deployed during my placement season. The idea was to showcase my current projects and the current learning. All the technical stack used is mentioned above.
+
 ## Screenshots of the interface:
 ![screenshot_1](https://user-images.githubusercontent.com/68558847/208161165-a9a691bc-e887-44ed-ba21-225c339296de.png)
 
