@@ -1,7 +1,7 @@
-Live Link:
+## Live Link:
 https://ananya-agarwal.github.io/Personal_Porfolio/
 
-Tech Stack Used :
+## Tech Stack Used :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -21,7 +21,7 @@ Tech Stack Used :
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-Screenshot of the interface:
+## Screenshot of the interface:
 ![screenshot_1](https://user-images.githubusercontent.com/68558847/208161165-a9a691bc-e887-44ed-ba21-225c339296de.png)
 
 ![screenshot_2](https://user-images.githubusercontent.com/68558847/208162068-58e25fb4-3f47-4344-9790-cb2f58988dc1.png)
